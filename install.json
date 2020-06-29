@@ -1,12 +1,11 @@
 [
   {
-    "uri": "index.html",
     "order": "99",
-    "featuremanager": true,
-    "group_id": "software",
+    "id": "iThemes-Sync-login",
+    "name": "iThemes Sync-login",
     "type": "link",
-    "icon": "iThemes-Sync.png",
-    "id": "iThemes-Sync",
-    "name": "iThemes Sync"
+    "uri": "https://members.ithemes.com/login/",
+    "group_id": "software",
+    "icon": "iThemes-Sync.png"
   }
 ]
