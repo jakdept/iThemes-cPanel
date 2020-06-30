@@ -10,8 +10,8 @@
   },
   {
     "order": "99",
-    "id": "iThemes-Sync-login",
-    "name": "iThemes Sync",
+    "id": "iThemes-Sync-settings",
+    "name": "iThemes Sync Setup",
     "type": "link",
     "uri": "ithemes-sync-settings.live.php",
     "group_id": "software",
