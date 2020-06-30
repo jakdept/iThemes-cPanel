@@ -2,7 +2,7 @@
   {
     "order": "99",
     "id": "iThemes-Sync-login",
-    "name": "iThemes Sync-login",
+    "name": "iThemes Sync",
     "type": "link",
     "uri": "https://members.ithemes.com/login",
     "group_id": "software",
