@@ -1,7 +1,7 @@
 <?php
 include("/usr/local/cpanel/php/cpanel.php");  // Instantiate the CPANEL object.
 $cpanel = new CPANEL();                       // Connect to cPanel - only do this once.
-print $cpanel->header( "Page Heading" );      // Add the header.
+print $cpanel->header( "iThemes Sync Setup" );      // Add the header.
 ?>
  
 <?php
