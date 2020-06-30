@@ -7,5 +7,14 @@
     "uri": "https://members.ithemes.com/login",
     "group_id": "software",
     "icon": "iThemes-Sync.png"
+  },
+  {
+    "order": "99",
+    "id": "iThemes-Sync-login",
+    "name": "iThemes Sync",
+    "type": "link",
+    "uri": "ithemes-sync-settings.live.php",
+    "group_id": "software",
+    "icon": "iThemes-Sync.png"
   }
 ]
