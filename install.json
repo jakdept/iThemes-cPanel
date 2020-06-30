@@ -4,7 +4,7 @@
     "id": "iThemes-Sync-login",
     "name": "iThemes Sync-login",
     "type": "link",
-    "uri": "https://members.ithemes.com/login/",
+    "uri": "https://members.ithemes.com/login",
     "group_id": "software",
     "icon": "iThemes-Sync.png"
   }

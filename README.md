@@ -12,3 +12,13 @@ And then somehow mangle it into this?
 /usr/local/cpanel/scripts/install_plugin plugin_file --theme theme_name 
 ```
 
+
+```
+root@cpplugin:[~]: /scripts/install_plugin master.tar.gz --theme paper_lantern
+info [install_plugin] Installing to paper_lantern
+info [install_plugin] Installing iThemes-Sync-login in Feature Manager ...
+info [install_plugin] Done
+info [install_plugin] Scheduling task to update sprites
+info [install_plugin] Scheduling task to update API spec files
+Plugin installed ok
+```
